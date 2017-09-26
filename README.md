@@ -7,5 +7,5 @@ Language use: DSSL2
 
 These are the notes of Data Structure course:
 
-- Course [#1](https://github.com/MuMu1018/EECS214_Data-structure/blob/master/%23214%20-%200921.rkt): Structs & Arrays 
+- Course #1: [Structs & Arrays](https://github.com/MuMu1018/EECS214_Data-structure/blob/master/%23214%20-%200921.rkt) 
 - Course #2: Linked lists ([Link list](https://github.com/MuMu1018/EECS214_Data-structure/blob/master/%23214%20-%200926.rkt), link list with tail, double-linked)
